@@ -1,5 +1,5 @@
 {
-  "_from": "git+ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git#master",
+  "_from": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
   "_id": "bw-game-api-keycloak-adapter@1.0.3",
   "_inBundle": false,
   "_integrity": "",
@@ -7,9 +7,9 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git#master",
-    "rawSpec": "git+ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git#master",
-    "saveSpec": "git+ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git#master",
+    "raw": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
+    "rawSpec": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
+    "saveSpec": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
     "fetchSpec": "ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git",
     "gitCommittish": "master"
   },
@@ -17,8 +17,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "git+ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git#896b28cd2fdaaa9558c58bc2e4779bbf97c55e8b",
-  "_spec": "git+ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git#master",
+  "_resolved": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
+  "_spec": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
   "_where": "/var/lib/jenkins/workspace/nexus-build-history-api/build-temp",
   "author": {
     "name": "Norman Chen",
