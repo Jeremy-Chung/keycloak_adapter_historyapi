@@ -1,0 +1,12 @@
+{
+    "realm": "master",
+    "url": "http://prd-sld-sso1.xyz858.com:8080/auth",
+    "clientId": "master-website",
+    "credentials":
+    {
+        "secret": "8dfee16f-28ce-4d29-aaba-f77556ea6b8e"
+    },
+    "adminAccount": "admin",
+    "adminPassword": "JSg3DvbKxDt8bquQ",
+    "fixedRealm":"mg"
+}

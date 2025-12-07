@@ -1,0 +1,12 @@
+{
+    "realm": "master",
+    "url": "http://qa-sld-sso1.xyz858.com:8080/auth",
+    "clientId": "master-website",
+    "credentials":
+    {
+        "secret": "56874220-7759-4290-8878-d89440058a9e"
+    },
+    "adminAccount": "admin",
+    "adminPassword": "admin",
+    "fixedRealm":"mg"
+}

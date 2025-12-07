@@ -1,0 +1,12 @@
+{
+    "realm": "master",
+    "url": "http://stg-wgl-sso.allstar-interactive.com/auth",
+    "clientId": "master-website",
+    "credentials":
+    {
+        "secret": "a18c9419-7cde-45b0-83e7-07eabce2204a"
+    },
+    "adminAccount": "admin",
+    "adminPassword": "admin",
+    "fixedRealm":"mg"
+}

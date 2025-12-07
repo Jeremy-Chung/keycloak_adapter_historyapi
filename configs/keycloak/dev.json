@@ -1,0 +1,12 @@
+{
+    "realm": "master",
+    "url": "http://de1-sso.luckytwist.com/auth",
+    "clientId": "master-website",
+    "credentials":
+    {
+        "secret": "31b0049e-df7c-402b-8c85-318095ad225b"
+    },
+    "adminAccount": "admin",
+    "adminPassword": "Keycloak@dmin",
+    "fixedRealm":"mg"
+}
