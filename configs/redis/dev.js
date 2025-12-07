@@ -1,4 +1,4 @@
 module.exports = {
-    host: "localhost",
+    host: "redis",
     heartbeat: 30,
 };

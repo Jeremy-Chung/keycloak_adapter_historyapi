@@ -1,12 +1,12 @@
 {
     "realm": "master",
-    "url": "http://de1-sso.luckytwist.com/auth",
+    "url": "http://35.185.152.34:8080/auth",
     "clientId": "master-website",
     "credentials":
     {
-        "secret": "31b0049e-df7c-402b-8c85-318095ad225b"
+        "secret": "b72c4de3-4bde-4722-b700-dbd6cac9ed6e"
     },
     "adminAccount": "admin",
-    "adminPassword": "Keycloak@dmin",
-    "fixedRealm":"mg"
+    "adminPassword": "admin",
+    "fixedRealm":"bw"
 }
