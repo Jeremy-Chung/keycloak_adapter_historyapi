@@ -10,7 +10,7 @@
     "raw": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
     "rawSpec": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
     "saveSpec": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
-    "fetchSpec": "ssh://git@bitbucket.org/bananawhale/bwgame_api_keycloak_adapter.git",
+    "fetchSpec": "https://github.com/Jeremy-Chung/keycloak_adapter_historyapi.git#default",
     "gitCommittish": "master"
   },
   "_requiredBy": [
@@ -26,7 +26,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "passport": "git+ssh://git@bitbucket.org/bananawhale/bwsharedmodules_passport.git",
+    "passport": "https://github.com/Jeremy-Chung/bwsharedmodules_passport.git#default",
     "redis": "^2.8.0"
   },
   "deprecated": false,
