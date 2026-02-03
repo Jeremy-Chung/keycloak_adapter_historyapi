@@ -1,6 +1,6 @@
 {
     "realm": "master",
-    "url": "http://35.185.152.34:8080/auth",
+    "url": "http://35.194.250.225:8080/auth",
     "clientId": "master-website",
     "credentials":
     {
